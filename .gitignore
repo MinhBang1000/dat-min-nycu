@@ -6,3 +6,7 @@
 
 # Except Jupyter notebooks starting with HW2
 !*.ipynb
+!entire_excluded_training.csv
+!entire.csv
+!test_X.csv
+!training.csv
